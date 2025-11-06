@@ -1,0 +1,54 @@
+﻿  Agent.cpp
+  Attack.cpp
+  Ball.cpp
+  CapturingTower.cpp
+  Navigate.cpp
+  Patrol.cpp
+  Pipe.cpp
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\Pipe.cpp(15,16): warning C4305: '=': truncation from 'double' to 'float'
+  Floor.cpp
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\Floor.cpp(31,15): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Camera.cpp
+  GameEntity.cpp
+  App.cpp
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(110,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(111,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(115,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(116,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(118,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(119,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(128,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(287,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(289,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\App.cpp(293,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GuiHelpers.cpp
+  RenderHelpers.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  Compiling...
+  Idle.cpp
+  Tower.cpp
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\Tower.cpp(47,26): warning C4316: 'Ball': object allocated on the heap may not be aligned 16
+  World.cpp
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(297,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(297,16): warning C4244:         with
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(297,16): warning C4244:         [
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(297,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(297,16): warning C4244:         ]
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(370,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(378,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\ACW\Source\World.cpp(417,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  ACW.vcxproj -> C:\Users\Saif\Desktop\Physics-Simulation-and-AI-\Debug\ACW.exe
